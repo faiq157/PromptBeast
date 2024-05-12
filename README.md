@@ -11,7 +11,7 @@ Welcome to the Gemini API Android App Tutorial repository! This tutorial, featur
   - [Activity Design](#activity-design)
   - [The Coding Session](#the-coding-session)
   - [Additional Resources](#additional-resources)
-  - [Video Tutorial](#video-tutorial)
+ 
 
 ## Overview
 In this tutorial, you'll learn how to set up your Android development environment, design a user-friendly interface, and code the integration with the Gemini model API. The tutorial covers essential steps in both UI/UX design and backend development to ensure a comprehensive understanding.
