@@ -1,6 +1,6 @@
 # Gemini API Android app tutorial : Text only
 
-Welcome to the Gemini API Android App Tutorial repository! This tutorial, featured on [3CodeCamp](https://www.youtube.com/@3CodeCampers), guides you through building an Android application that uses the Gemini model through API integration. Follow the steps below to create an Android app that uses the text only feature of the Gemini model.
+Welcome to the Gemini API Android App Tutorial repository!. guides you through building an Android application that uses the Gemini model through API integration. Follow the steps below to create an Android app that uses the text only feature of the Gemini model.
 
 ## Table of Contents
 - [Gemini API Android app tutorial : Text only](#gemini-api-android-app-tutorial--text-only)
